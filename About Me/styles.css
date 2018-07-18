@@ -6,7 +6,7 @@ body {
 #aboutMe {
 	font-size: 35px;
 	padding: 30px;
-	color: white;
+	font-color: white;
 	background-color: orange;
 	text-align: center;
 }
